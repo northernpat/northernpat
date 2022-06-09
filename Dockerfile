@@ -1,2 +1,2 @@
-from centos
-run yum -y install vim
+from ubuntu:latest
+run apt-get  -y install httpd
